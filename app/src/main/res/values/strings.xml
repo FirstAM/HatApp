@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HogwartsLibrary</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="welcome_title">Добро пожаловать в Хогвартс!</string>
+    <string name="welocome_subtitle">Наденьте шляпу !</string>
+    <string name="welcome_name_hint">Введите ваше имя</string>
+    <string name="welcome_select_faculty">Распределить</string>
+    <string name="welcome_selected">Поздравляем, ваш факультет [faculty_name]</string>
+    <string name="welcome_seleting">Распределяю…</string>
+    <string name="welcome_next">Зайти й в школу</string>
+</resources>
